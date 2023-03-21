@@ -22,3 +22,6 @@ Open a new terminal and type the following command: `docker stop node-web-app`
 
 ## Start the container
 In the terminal type the following command: `docker start node-web-app`
+
+## Open interactive mode after running the container to see the contents of the container:
+`docker exec -it node-web-app /bin/sh`
