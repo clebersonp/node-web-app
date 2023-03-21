@@ -1,0 +1,8 @@
+{
+    "name": "node-web-app",
+    "version": "1.0",
+    "description": "Simple node web app with Dockerfile",
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
